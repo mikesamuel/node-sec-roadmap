@@ -25,9 +25,10 @@ that the following environment variables point to reasonable values:
 Deploying
 =========
 `make deploy` builds the deploy directory.
-From that directory `gcloud app deploy --project node-sec-roadmap`
-deploys to the canonical location if you have the right
-privileges and have run `gcloud auth login`.
+`gcloud auth login` to authenticate to the appengine SDK.
+`cd deploy`
+Then `gcloud app deploy --project node-sec-roadmap-fyi`
+deploys to the canonical location.
 endef
 export HELP
 
