@@ -180,5 +180,5 @@ Below is one that has worked in similar contexts:
 [QUI]: ../chapter-1/threat-QUI.md
 [JSConformance]: https://github.com/google/closure-compiler/wiki/JS-Conformance-Framework
 [tslint]: https://palantir.github.io/tslint/develop/custom-rules/
-[eslint]: https://eslint.org/docs/developer-guide/working-with-rules-new#runtime-rules
+[eslint]: https://eslint.org/docs/developer-guide/working-with-rules#runtime-rules
 [Keeping your dependencies close]: ../chapter-4/close_dependencies.md

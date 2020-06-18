@@ -53,4 +53,4 @@ from causing widespread compromise of a population of production
 servers then we can limit damage to end users.
 
 [sans]: https://www.sans.org/reading-room/whitepapers/bestprac/defenses-zero-day-exploits-various-sized-organizations-35562
-[saccone]: https://www.kb.cert.org/CERT_WEB/services/vul-notes.nsf/6eacfaeab94596f5852569290066a50b/018dbb99def6980185257f820013f175/$FILE/npmwormdisclosure.pdf
+[saccone]: https://www.kb.cert.org/vuls/id/319816
